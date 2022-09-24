@@ -1,0 +1,76 @@
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.exe
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.deps.json
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.runtimeconfig.json
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.runtimeconfig.dev.json
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.dll
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.pdb
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.csproj.AssemblyReference.cache
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.AssemblyInfoInputs.cache
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.AssemblyInfo.cs
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.csproj.CoreCompileInputs.cache
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\staticwebassets\FirstAPI.StaticWebAssets.Manifest.cache
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.RazorTargetAssemblyInfo.cache
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.dll
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.pdb
+E:\C#\C# with Timur\Advance\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.genruntimeconfig.cache
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.exe
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.deps.json
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.runtimeconfig.json
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.runtimeconfig.dev.json
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.dll
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.pdb
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.csproj.AssemblyReference.cache
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.AssemblyInfoInputs.cache
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.AssemblyInfo.cs
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\staticwebassets\FirstAPI.StaticWebAssets.Manifest.cache
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.dll
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.pdb
+C:\Users\Valentina\Desktop\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.genruntimeconfig.cache
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.csproj.AssemblyReference.cache
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.AssemblyInfoInputs.cache
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.AssemblyInfo.cs
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.dll
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.pdb
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.exe
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.deps.json
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.runtimeconfig.json
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.runtimeconfig.dev.json
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.dll
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.pdb
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\staticwebassets\FirstAPI.StaticWebAssets.Manifest.cache
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Valentina\Desktop\domModel\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.genruntimeconfig.cache
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.exe
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.deps.json
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.runtimeconfig.json
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.runtimeconfig.dev.json
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.dll
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\bin\Debug\netcoreapp3.1\FirstAPI.pdb
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.csproj.AssemblyReference.cache
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.AssemblyInfoInputs.cache
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.AssemblyInfo.cs
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.csproj.CoreCompileInputs.cache
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\staticwebassets\FirstAPI.StaticWebAssets.Manifest.cache
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.RazorTargetAssemblyInfo.cache
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.dll
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.pdb
+C:\C#project\ASP.Net\ASP.Net\First Controller with MockData\FirstAPI\FirstAPI\obj\Debug\netcoreapp3.1\FirstAPI.genruntimeconfig.cache
